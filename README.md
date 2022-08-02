@@ -1,4 +1,4 @@
-## Oi, sou o Lucas ! <img src="./image/octocat-lucas.png" alt="Oi, sou o Lucas !" width="55" height="55">
+## Oi, sou o Lucas! <img src="./image/octocat-lucas.png" alt="Oi, sou o Lucas !" width="55" height="55">
 
 ### Bem vindo ao meu perfil GitHub 👋
 
