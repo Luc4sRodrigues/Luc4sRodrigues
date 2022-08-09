@@ -3,7 +3,6 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente trabalho como desenvolvedor na Braip.
-- 🌱 No momento, estou aprendendo a programar em PHP/Laravel.
 
 📫 Quer me achar?
 
