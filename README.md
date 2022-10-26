@@ -1,6 +1,6 @@
 ## Oi, sou o Lucas! <img src="./image/octocat-lucas.png" alt="Oi, sou o Lucas !" width="55" height="55">
 
-### Bem vindo ao meu perfil GitHub 👋
+### Bem vindo ao meu perfil do GitHub 🖖🏼
 
 - 🔭 Atualmente trabalho como desenvolvedor na Braip.
 
