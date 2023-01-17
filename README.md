@@ -16,7 +16,7 @@
  </p>
 
 <p>
-  <img height="150em" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc4sRodrigues&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/> <img height="150em" width="350px" src="https://github-readme-stats.vercel.app/api?username=Luc4sRodrigues&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
+  <img height="150em" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lllluc4s&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/> <img height="150em" width="350px" src="https://github-readme-stats.vercel.app/api?username=lllluc4s&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
 </p>
 
 ![Snake animation](https://github.com/Luc4sRodrigues/Luc4sRodrigues/blob/output/github-contribution-grid-snake.svg)
