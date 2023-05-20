@@ -4,7 +4,7 @@
 
 ### Bem vindo ao meu perfil do GitHub 🖖🏼
 
-- 🔭 Atualmente trabalho como desenvolvedor na Braip.
+- 🔭 Atualmente trabalho como desenvolvedor web.
 
 📫 Quer me achar?
 
