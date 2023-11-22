@@ -4,7 +4,7 @@
 
 ### Bem vindo ao meu perfil do GitHub 🖖🏼
 
-- 🔭 Atualmente trabalho como desenvolvedor web na Zukkin Brasil.
+- 🔭 Atualmente trabalho como desenvolvedor web no Zukkin Brasil.
 
 📫 Quer me achar?
 
