@@ -4,7 +4,7 @@
 
 ### Bem vindo ao meu perfil do GitHub 🖖🏼
 
-- 🔭 Atualmente desenvolvendo em PHP, JavaScript, React e Docker.
+- 🔭 Atuando em startups como WedDev e DevOps.
 
 📫 Quer me achar?
 
