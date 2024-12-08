@@ -4,7 +4,7 @@
 
 ### Bem vindo ao meu perfil do GitHub 🖖🏼
 
-- 🔭 Atuando em startups como WedDev e DevOps.
+- 🔭 Atuando como WedDev e DevOps.
 
 📫 Quer me achar?
 
